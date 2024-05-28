@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plants-react/static/css/main.7acaea2f.css",
+    "main.js": "/plants-react/static/js/main.0ec89dee.js",
+    "index.html": "/plants-react/index.html",
+    "main.7acaea2f.css.map": "/plants-react/static/css/main.7acaea2f.css.map",
+    "main.0ec89dee.js.map": "/plants-react/static/js/main.0ec89dee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.0ec89dee.js"
+  ]
+}
