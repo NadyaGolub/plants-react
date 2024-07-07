@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "title": "Троянда",
+    "img": "https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "desc": "Рід і культурна форма рослин родини.",
+    "category": "flowers",
+    "price": 50.45,
+    "quantity": 0
+  },
+  {
+    "id": "2",
+    "title": "Лілія",
+    "img": "https://images.pexels.com/photos/2375010/pexels-photo-2375010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "desc": "Багаторічні цибулинні трави. Стебло є безпосереднім продовженням цибулини, вкрите листям — з листками, які локалізуються в нижній частині. Листки — лінійні, лінійно-ланцетоподібні, овальні, чергові або розміщені кільцями. Квітки двостатеві, складаються з 6 пелюсток, зібраних у китиці, іноді одиночних. Плід — довгаста коробочка.",
+    "category": "flowers",
+    "price": 45,
+    "quantity": 15
+  },
+  {
+    "id": "3",
+    "title": "Калла",
+    "img": "https://images.pexels.com/photos/17035575/pexels-photo-17035575.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "desc": "Рід багаторічних рослин родини кліщинцевих. Деякі види цього роду — популярні декоративні рослини, звані при продажу зазвичай «каллами»; їх вирощують на зрізання, а також як горшкові культури.",
+    "category": "flowers",
+    "price": 55,
+    "quantity": 5
+  },
+  {
+    "id": "4",
+    "title": "Гіацинт",
+    "img": "https://images.pexels.com/photos/7404172/pexels-photo-7404172.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "desc": "Рід багаторічних цибулинних рослин родини гіацинтових (Hyacinthaceae) або холодкових (Asparagaceae), у разі внесення до неї всієї родини гіацинтових, як це пропонується системою APG II. Раніше, наприклад у системах Тахтаджяна і Кронквіста, рід часто відносили до родини лілійних (Liliaceae).",
+    "category": "flowers",
+    "price": 35,
+    "quantity": 1
+  },
+  {
+    "id": "5",
+    "title": "Гортензія",
+    "img": "https://images.pexels.com/photos/414510/pexels-photo-414510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "desc": "Рід квіткових рослин родини гортензієвих, який має близько 70-75 видів, ростуть у Південній та Східній Азії, Північній та Південній Америці, найбільша видова різноманітність у Східній Азії, особливо в Китаї та Японії. Назва гортензія дано на честь принцеси Гортензії — сестри принца Священної Римської імперії Карла-Генріха Нассау-Зігена.",
+    "category": "flowers",
+    "price": 30,
+    "quantity": 15
+  },
+  {
+    "id": "6",
+    "title": "Яблуня",
+    "img": "https://images.pexels.com/photos/221076/pexels-photo-221076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "desc": "Це плід яблуні, рослини з родини трояндових.",
+    "category": "tree",
+    "price": 20,
+    "quantity": 10
+  },
+  {
+    "id": "7",
+    "title": "Агрус",
+    "img": "https://images.pexels.com/photos/5502086/pexels-photo-5502086.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "desc": "Вид ягідних рослин родини аґрусових.",
+    "category": "brush",
+    "price": 20,
+    "quantity": 20
+  }
+]
